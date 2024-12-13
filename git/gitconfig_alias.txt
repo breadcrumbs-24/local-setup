@@ -1,14 +1,14 @@
 [alias]
-  a = add
-  b = branch
-  c = commit
-  d = diff
-  f = fetch
-  l = log
-  m = merge
-  o = checkout
-  p = pull
-  s = status
-  w = whatchanged
-  aa = add --all
-  fuck = reset HEAD --hard
+	a = add
+	b = branch
+	c = commit
+	d = diff
+	f = fetch
+	l = log
+	m = merge
+	o = checkout
+	p = pull
+	s = status
+	w = whatchanged
+	aa = add --all
+	fuck = reset HEAD --hard
